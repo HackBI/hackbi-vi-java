@@ -22,5 +22,5 @@ An overview of how to use Java.
 * arrays 
 * objects
 
-Resources/Sites Used:
+## Resources/Sites Used:
 Learning Java through Alice 3, Java methods
